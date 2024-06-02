@@ -1,0 +1,8 @@
+BSW_CONFGEN_CONFIRMATION_REQUIRED=true
+MergeMode=false
+eclipse.preferences.version=1
+lastEcuToSync=/DBC_SysDesc_Can_Network/Pkg_Ecu/RDCU
+lastFileToSync=RDCU_Project_EcucValues.arxml
+lastFileTypeSel=single
+lastSelectedScriptLoc=RTA-BSW_6.1.0
+selected_pdus=ALL_PDUS
